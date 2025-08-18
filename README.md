@@ -15,7 +15,21 @@ The base was made of 1020 steel.
 <img width="1920" height="1080" alt="A" src="Assets/base_ss.png" />
 <img width="1920" height="1080" alt="A" src="Assets/base_imgp.png" />
 
-### Final Result of the Ballerina Project
+### Ballerina Intermediate Support
+The intermediate support is made of aluminum.
+<img width="1920" height="1080" alt="A" src="Assets/is_ss.png" />
+<img width="1920" height="1080" alt="A" src="Assets/is_imgp.png" />
+
+### Ballerina main support 
+
+
+### Ballerina
+
+
+### Ballerina arms
+
+
+### Weight support
 
 
 
