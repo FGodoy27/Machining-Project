@@ -6,6 +6,7 @@ It was necessary to calculate all the cuts and processes required, calculations 
 
 ### Ballerina Project Final Assembly
 <img width="1920" height="1080" alt="A" src="Assets/assembly.png" />
+<img width="1920" height="1080" alt="A" src="Assets/assembly_imgp.png" />
 
 ### Final Result of the Ballerina Project
 
