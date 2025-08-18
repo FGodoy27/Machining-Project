@@ -1,3 +1,5 @@
+## Ballerina Project
+
 This is a project for the machining course, where we were given the option of making a figure with a free design and measurements, taking into account only the availability of materials in the laboratory.
 For this project, we needed to use all the machines we have in the laboratory (milling machine, lathe, drill, planer).
 It was necessary to calculate all the cuts and processes required, calculations that will be attached to this repository.
