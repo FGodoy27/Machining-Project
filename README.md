@@ -6,3 +6,15 @@ It was necessary to calculate all the cuts and processes required, calculations 
 
 ### Ballerina Project Final Assembly
 <img width="1920" height="1080" alt="A" src="Assets/assembly.png" />
+
+### Final Result of the Ballerina Project
+
+### Ballerina Base
+The base was made of 1020 steel.
+<img width="1920" height="1080" alt="A" src="Assets/base_ss.png" />
+<img width="1920" height="1080" alt="A" src="Assets/base_imgp.png" />
+
+### Final Result of the Ballerina Project
+
+
+
