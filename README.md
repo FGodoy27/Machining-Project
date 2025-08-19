@@ -31,9 +31,17 @@ The ballerina was made of 1020 steel.
 <img width="1920" height="1080" alt="A" src="Assets/ballerina_imgp.png" />
 
 ### Ballerina Arms
-
+The ballerina arms were made of 1020 steel.
+<img width="1920" height="1080" alt="A" src="Assets/arms_ss.png" />
+<img width="1920" height="1080" alt="A" src="Assets/arms_imgp.png" />
 
 ### Weight Support
+The weight support of the ballerina was made of 1020 steel
+<img width="1920" height="1080" alt="A" src="Assets/sp_ss.png" />
+<img width="1920" height="1080" alt="A" src="Assets/sp_imgp.png" />
 
-
+### Weights
+The weights were made of 1020 steel
+<img width="1920" height="1080" alt="A" src="Assets/w_ss.png" />
+<img width="1920" height="1080" alt="A" src="Assets/w_imgp.png" />
 
