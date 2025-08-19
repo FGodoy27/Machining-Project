@@ -20,16 +20,20 @@ The intermediate support is made of aluminum.
 <img width="1920" height="1080" alt="A" src="Assets/is_ss.png" />
 <img width="1920" height="1080" alt="A" src="Assets/is_imgp.png" />
 
-### Ballerina main support 
-
+### Ballerina Main Support 
+The main support is made of aluminum.
+<img width="1920" height="1080" alt="A" src="Assets/s_ss.png" />
+<img width="1920" height="1080" alt="A" src="Assets/s_imgp.png" />
 
 ### Ballerina
+The ballerina was made of 1020 steel.
+<img width="1920" height="1080" alt="A" src="Assets/ballerina_ss.png" />
+<img width="1920" height="1080" alt="A" src="Assets/ballerina_imgp.png" />
+
+### Ballerina Arms
 
 
-### Ballerina arms
-
-
-### Weight support
+### Weight Support
 
 
 
